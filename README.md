@@ -103,22 +103,22 @@
 > 아래 Readme를 통해 직접 프로젝트에 구현된 코드를 살펴볼 수 있습니다.
 
 ### 💫 Model
--   [Model](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/modeling)  /  [README.md](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/modeling/README.md)
+-   [Model](https://github.com/Make-Zenerator/voice2face/tree/main/modeling)  /  [README.md](https://github.com/Make-Zenerator/voice2face/tree/main/modeling/README.md)
 
 ### 📊 Data
--   [Data Pipeline](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/data)  /  [README.md](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/data/README.md)
+-   [Data](https://github.com/Make-Zenerator/voice2face/tree/main/data)  /  [README.md](https://github.com/Make-Zenerator/voice2face/tree/main/data/README.md)
 
 ### 🖼️ Frontend
--   [Frontend](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/frontend)  /  [README.md](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/frontend/README.md)
+-   [Frontend](https://github.com/Make-Zenerator/voice2face/tree/main/frontend)  /  [README.md](https://github.com/Make-Zenerator/voice2face/tree/main/frontend/README.md)
 
 ### 💻 Backend
--   [Backend](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/backend)  /  [README.md](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/backend/README.md)
+-   [Backend](https://github.com/Make-Zenerator/voice2face/tree/main/backend)  /  [README.md](https://github.com/Make-Zenerator/voice2face/tree/main/backend/README.md)
 
 ### 🌐 MLOps
--   [MLOps](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/mlops)  /  [README.md](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08/tree/main/mlops/README.md)
+-   [MLOps](https://github.com/Make-Zenerator/voice2face/tree/main/mlops)  /  [README.md](https://github.com/Make-Zenerator/voice2face/tree/main/mlops/README.md)
 
 ## Links
 ### [YOUTUBE 발표자료](https://youtu.be/VJL6UQUTKrY?si=ZEs1L4BqvAnHlwvh) 
 updated. 2024.04.02
-### [NOTION LINK](https://truealex.notion.site/CV-08-d7987f38c09f470aababdedd822e96ca?pvs=4)
+### [NOTION LINK](https://truealex.notion.site/CV-08-Make-Zenerator-4936dd07f669476da5c7c530fb428ef5?pvs=4)
 updated. 2024.03.31
